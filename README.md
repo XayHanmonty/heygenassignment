@@ -1,4 +1,4 @@
-# Heygen Video Translation Simulation
+# Video Translation Simulation
 
 This project simulates a video translation backend and provides a client library to interact with it. The server simulates translation status updates (`pending`, `completed`, or `error`), while the client library intelligently polls the server using exponential backoff.
 
